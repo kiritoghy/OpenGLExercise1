@@ -56,7 +56,7 @@ Shader::Shader(const char* vertexPath, const char* fragmentPath){
 		printf(ex.what());
 	}
 }
-
+ 
 Shader::~Shader(){
 }
 
